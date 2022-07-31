@@ -10,4 +10,4 @@ Mappings:
 * L to loop the file.
 
 Scripts:
-* Autoload: allows to load next file in directory.
+* Autoload https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua: allows to load next file in directory.
